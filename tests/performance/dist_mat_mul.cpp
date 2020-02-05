@@ -814,7 +814,7 @@ void test_cannon_0()
 
 int hpx_main(int argc, char* argv[])
 {
-   /*
+  /*
     test_dot_d_100();
     test_dot_d_200();
     */
@@ -828,7 +828,7 @@ int hpx_main(int argc, char* argv[])
     test_dot_d_800();
     test_dot_d_1000();
     */
-    //test_cannon_0();
+   //test_cannon_0();
 
     return hpx::finalize();
 }
